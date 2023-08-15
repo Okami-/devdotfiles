@@ -9,7 +9,7 @@ format = """\
 $all[╰─](238)$character"""
 
 [hostname]
-ssh_only = false
+ssh_only = true
 disabled = false
 format = '[$ssh_symbol](bold blue)on [$hostname](bold red) '
 style = 'fg:207'
