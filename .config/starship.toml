@@ -11,6 +11,7 @@ $all[╰─](238)$character"""
 [hostname]
 ssh_only = false
 disabled = false
+format = '[$ssh_symbol](bold blue)on [$hostname](bold red) '
 style = 'fg:207'
 
 # Change the default prompt characters
